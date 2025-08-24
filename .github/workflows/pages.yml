@@ -1,5 +1,5 @@
 # Build and deploy Hextra docs site to GitHub Pages
-name: Deploy Hextra docs site to Pages
+name: Deploy Hextra docs site to Pages 
 
 on:
   # Runs on pushes targeting the default branch
